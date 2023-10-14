@@ -1,0 +1,14 @@
+@import '../../styles/settings.scss';
+
+.button {
+    color: $white-color;
+    background-color: $background-color;
+    border-style: none;
+    text-align: center;
+    padding: 12px;
+    margin: 20px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 700;
+    text-transform: uppercase;
+}
